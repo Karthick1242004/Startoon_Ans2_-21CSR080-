@@ -1,0 +1,19 @@
+{
+    "progress": {
+      "percentage": 40
+    },
+    "patient": {
+      "phone": "8022334455",
+      "email": "meenarabinsachin2@gmail.com",
+      "affectedSide": "Bilateral",
+      "condition": "Ortho",
+      "speciality": "Osteoarthritis"
+    },
+    "patient_name": {
+    "name": "S.Meena",
+    "age": 23,
+    "id": "87 20200727153457"
+  }
+  }
+  
+  
